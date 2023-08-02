@@ -1,6 +1,6 @@
 {
   "name": "react-cra-template",
-  "homepage":"https://yourusername.github.io/repository-name",
+  "homepage":"",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
